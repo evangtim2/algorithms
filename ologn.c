@@ -2,6 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 
+int bSearch(int arr[], int size, int item);
+
+int main(void)
+{
+    int low, high, mid;
+}
+
 int bSearch(int arr[], int size, int item)
 {
     int low = 0;
