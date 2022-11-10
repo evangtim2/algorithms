@@ -18,7 +18,6 @@ int main()
 {
     int *arr = NULL;
     int i;
-    int malloc;
     int num, key, loc;
 
     printf("How many numbers; ");
